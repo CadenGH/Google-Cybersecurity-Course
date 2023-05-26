@@ -7,4 +7,6 @@
 
 - [[Compliance Checklist]](https://docs.google.com/document/d/1ZvbbAluZZMJHqBxOiBErYrZHYSUO4M9brykbcdnPEeo/edit?usp=sharing&resourcekey=0-KEFrGlHd44r9oJJlehTgDw)
 
-- [[Company's current controls list]](https://docs.google.com/document/d/1V-W4G5JyZPQLxzBLIVBjdh08hJsasbNavpAXJBBH9kY/edit?usp=sharing)
+- [[Company's Current Controls]](https://docs.google.com/document/d/1V-W4G5JyZPQLxzBLIVBjdh08hJsasbNavpAXJBBH9kY/edit?usp=sharing)
+
+- [[Stakeholder Memorandum]](https://docs.google.com/document/d/1FQn67oCGF_WISF2VF_IJOLAfL6bo30cX5LYAbPbkFXA/edit?usp=sharing)
