@@ -1,7 +1,7 @@
 # Google-Cybersecurity-Course
 <h1>I started my Google Cybersecurity course on 05/26.
 
-  I will be adding my progress here to give people some insight on the course, so they can decide if it will be beneficial for them or not.</h1> 
+  I'll be sharing how I'm doing here, so anyone curious about the course can get a feel for it and see if it's something they might find useful.</h1> 
 
 <h2>Activity 1: Learning About Security Audits.</h2>
 
