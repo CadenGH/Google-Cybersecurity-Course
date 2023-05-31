@@ -10,3 +10,8 @@
 - [[Company's Current Controls]](https://docs.google.com/document/d/1V-W4G5JyZPQLxzBLIVBjdh08hJsasbNavpAXJBBH9kY/edit?usp=sharing)
 
 - [[Stakeholder Memorandum]](https://docs.google.com/document/d/1FQn67oCGF_WISF2VF_IJOLAfL6bo30cX5LYAbPbkFXA/edit?usp=sharing)
+
+
+<h2>Activity 2: Writing a Proper Incident Report.</h2>
+
+- [[Incident Report]](https://docs.google.com/document/d/1mHS5waBFmdDJ08Y8K_uoZUa_xa8OSvvDPD-QZpEKoq4/edit?usp=sharing)
