@@ -15,3 +15,9 @@
 <h2>Activity 2: Writing a Proper Incident Report.</h2>
 
 - [[Incident Report]](https://docs.google.com/document/d/1mHS5waBFmdDJ08Y8K_uoZUa_xa8OSvvDPD-QZpEKoq4/edit?usp=sharing)
+
+<h2>Activity 3: Analyzing Network Attack Logs</h2>
+
+- [[Incident Report]](https://docs.google.com/document/d/1gxC09oDowzVInwR1MW0e43eKnCMbirHZ1hY1_6djw10/edit?usp=sharing)
+
+- [[Wireshark TCP/HTTP Logs]](https://docs.google.com/spreadsheets/d/130R8lQ6FkJLxNNr8tp-mLKgudiBh18r4ewtllk_E20Q/edit?usp=sharing)
